@@ -1,0 +1,1 @@
+savedcmd_/home/ubuntu/l2fwd-nv/external/gdrcopy/src/gdrdrv/gdrdrv.mod := printf '%s\n'   gdrdrv.o | awk '!x[$$0]++ { print("/home/ubuntu/l2fwd-nv/external/gdrcopy/src/gdrdrv/"$$0) }' > /home/ubuntu/l2fwd-nv/external/gdrcopy/src/gdrdrv/gdrdrv.mod

@@ -1,0 +1,1 @@
+savedcmd_/home/ubuntu/l2fwd-nv/external/gdrcopy/src/gdrdrv/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/ubuntu/l2fwd-nv/external/gdrcopy/src/gdrdrv/Module.symvers -T /home/ubuntu/l2fwd-nv/external/gdrcopy/src/gdrdrv/modules.order -i Module.symvers -e 

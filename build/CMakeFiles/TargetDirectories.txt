@@ -1,0 +1,10 @@
+/home/ubuntu/l2fwd-nv/build/CMakeFiles/dpdk_target.dir
+/home/ubuntu/l2fwd-nv/build/CMakeFiles/gdrcopy_lib.dir
+/home/ubuntu/l2fwd-nv/build/CMakeFiles/l2fwdnv.dir
+/home/ubuntu/l2fwd-nv/build/CMakeFiles/test.dir
+/home/ubuntu/l2fwd-nv/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/l2fwd-nv/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/l2fwd-nv/build/CMakeFiles/list_install_components.dir
+/home/ubuntu/l2fwd-nv/build/CMakeFiles/install.dir
+/home/ubuntu/l2fwd-nv/build/CMakeFiles/install/local.dir
+/home/ubuntu/l2fwd-nv/build/CMakeFiles/install/strip.dir

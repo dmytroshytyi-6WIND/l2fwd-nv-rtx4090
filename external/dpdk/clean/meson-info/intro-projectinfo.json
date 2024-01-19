@@ -1,0 +1,6 @@
+{
+  "version" : "22.03.0-rc3",
+              "descriptive_name" : "DPDK",
+                                   "subproject_dir" : "subprojects",
+                                                      "subprojects" : []
+}

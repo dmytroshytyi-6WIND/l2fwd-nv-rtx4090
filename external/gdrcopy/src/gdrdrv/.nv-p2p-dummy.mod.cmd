@@ -1,0 +1,1 @@
+savedcmd_/home/ubuntu/l2fwd-nv/external/gdrcopy/src/gdrdrv/nv-p2p-dummy.mod := printf '%s\n'   nv-p2p-dummy.o | awk '!x[$$0]++ { print("/home/ubuntu/l2fwd-nv/external/gdrcopy/src/gdrdrv/"$$0) }' > /home/ubuntu/l2fwd-nv/external/gdrcopy/src/gdrdrv/nv-p2p-dummy.mod
